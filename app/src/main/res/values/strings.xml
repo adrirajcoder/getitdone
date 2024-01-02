@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get It Done</string>
+    <string name="enter_item_to_add_to_to_do_list">Enter item to add to To Do List</string>
+    <string name="add">ADD</string>
+</resources>

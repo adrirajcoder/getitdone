@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:elevation">4dp</item> <!-- Set elevation for a shadow effect -->
+        <item name="android:stateListAnimator">@null</item> <!-- Disable default stateListAnimator to prevent unwanted animations -->
+    </style>
+</resources>
